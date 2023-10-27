@@ -1,0 +1,5 @@
+
+*.pyc
+cars/training/*
+cars/validation/01-whole/*.jpeg
+cars/validation/01-whole/*.jpg
